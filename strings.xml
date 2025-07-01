@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Simón Dice</string>
+    <string name="watch">Mira la secuencia</string>
+    <string name="your_turn">Tu turno</string>
+    <string name="correct">¡Correcto!</string>
+    <string name="game_over">¡Juego terminado! Puntuación: %1$d</string>
+</resources>
